@@ -1,0 +1,4 @@
+hey  welcome to NEW.TXT
+Today is monday 
+Tommorow is tuesday 
+and the day after that is wednesday This line has been added on monday 
